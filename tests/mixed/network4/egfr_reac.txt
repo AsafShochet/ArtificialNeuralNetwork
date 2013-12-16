@@ -1,0 +1,8 @@
+b+c=a
+!d=b
+d=e
+g+i=j
+j=h
+d*j=c
+k*e=c
+s*=f

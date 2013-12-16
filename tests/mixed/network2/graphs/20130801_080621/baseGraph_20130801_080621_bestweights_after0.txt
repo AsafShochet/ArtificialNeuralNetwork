@@ -1,0 +1,6 @@
+a:d=0.3
+b:d=0.7
+c:d=0.5
+d:h=0.6
+c:h=0.8489212004738674
+Measured experiments:0,1,2,3

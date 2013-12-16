@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LearningNetworkResults><Method>Neural</Method><UseCrossValidation>Neural</UseCrossValidation><LearningRate>0.001</LearningRate><TotalError>9.37508645499206E-4</TotalError><Edges><Edge><Lable>b:c</Lable><Source>b</Source><Destination>c</Destination><Weight>0.6002275328188733</Weight><StandardDeviation>0.0</StandardDeviation></Edge><Edge><Lable>a:c</Lable><Source>a</Source><Destination>c</Destination><Weight>0.399899708815129</Weight><StandardDeviation>0.0</StandardDeviation></Edge></Edges></LearningNetworkResults>

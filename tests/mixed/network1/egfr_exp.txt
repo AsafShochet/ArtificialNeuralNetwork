@@ -1,0 +1,2 @@
+#activated ligands/inhibited proteins | readouts
+d 3 c 10 | | e 0.8581489 a 0.99477639 # #

@@ -1,0 +1,4 @@
+#activated ligands/inhibited proteins | readouts
+| | b 0 c 1 # #
+a 1 | | b 0 c 1 # #
+a 0 | | b 0 c 1 # #

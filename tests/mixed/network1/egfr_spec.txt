@@ -1,0 +1,6 @@
+b Nan
+c 1
+d 0
+a Nan
+e 0
+s Nan

@@ -1,0 +1,16 @@
+!akt*!p90rsk=gsk3
+!akt*!pak1=bad
+dag*ca=dagcad
+pak1*csrc=pak1crscd
+erbb11*eps8r=rntre
+csrc*erbb11=stat3
+jnk*erk12*p90rsk=jnkerkp90rskd
+erk12*jnk=p70s6_1
+mekk1*mekk4*mlk3=mkk4
+p90rsk*mk2=creb
+mkk3*mkk6*mkk4=p38
+pi34p2*pip3=pi34p2_pip3
+sos1_eps8_e3b1*pten=sos1_e_e_dum
+mk2*pten=hsp27
+mekk1*raf1=mek12
+sos1_e_e_dum*vav2=rac_cdc42
